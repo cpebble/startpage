@@ -65,7 +65,7 @@ body {
 	grid-template-areas:
 		"Header"
 		"Sitelist";
-	grid-template-columns: 1em, 1fr;
+	grid-template-rows: auto 1fr;
 	width: 300px;
 	background: var(--color4);
 	color: var(--color1);

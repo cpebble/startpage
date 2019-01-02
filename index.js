@@ -2,18 +2,26 @@ const sites = {
 	Produktivitet: [
 		{ title: "Trackingtime", url: "http://pro.trackingtime.co" },
 		{ title: "Slack", url: "https://kvalifik.slack.com" },
-		{ title: "StackOverFlow", url: "https://stackoverflow.com" }
+		{ title: "StackOverFlow", url: "https://stackoverflow.com" },
+		{ title: "Github", url: "https://github.com" },
 	],
 	Social: [
 		{ title: "Facebook", url: "http://www.facebook.com" },
 		{ title: "Twitter", url: "http://www.twitter.com" },
-		{ title: "Youtube", url: "https://youtube.com" }
+		{ title: "Youtube", url: "https://youtube.com" },
 	],
 	Prokrastination: [
 		{ title: "Reddit", url: "http://www.reddit.com" },
 		{ title: "Netflix", url: "http://www.netflix.com" },
 		{ title: "CommitStrip", url: "http://commitstrip.com" },
-		{ title: "Saturdaymbc", url: "http://smbc-comics.com" }
+		{ title: "Saturdaymbc", url: "http://smbc-comics.com" },
+		{ title: "XKCD", url: "https://xkcd.com" },
+	],
+	Skole: [
+		{ title: "Absalon", url: "https://absalon.ku.dk" },
+		{ title: "KuNet", url: "https://kunet.ku.dk" },
+		{ title: "OverLeaf", url: "https://overleaf.com" },
+
 	]
 };
 
